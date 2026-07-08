@@ -47,7 +47,7 @@ Chaque sous-dossier contient son `style.css` et un `template.html` de démonstra
    </div>
    ```
 
-## Personnalisation
+## design/theme-dark/style.cssPersonnalisation
 
 Les couleurs et espacements sont centralisés en haut de `style.css` dans le bloc
 `:root { --color-primary: ...; }`. Changez ces variables pour adapter le thème
